@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\Assemblies\UnAnesthetic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.5\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.5\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.5\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.5\Assemblies\UnAnesthetic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.6\Assemblies\UnAnesthetic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.6\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.6\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]Un-Anaesthetic\1.6\Source\UnAnesthetic\UnAnesthetic\obj\Debug\UnAnesthetic.dll
